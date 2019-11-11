@@ -1,0 +1,22 @@
+{
+    "name":"Landing Pages",
+    "version": 0.1,
+    "replace": "-",
+    "keywords":[
+        {
+            "path": "hello-world",
+            "title": "Hello World",
+            "location":"default"
+        },
+        {
+            "path": "Text",
+            "title": "Text",
+            "location":"default"
+        }
+    ],
+    "location":{
+        "default":["","Hello", "world","sdfsd","sdfd","sdfsdf"],
+        "none":[""]
+    }
+
+}

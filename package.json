@@ -1,0 +1,16 @@
+{
+  "name": "landingpage_generator",
+  "version": "1.0.0",
+  "description": "Landingpage Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node generate.js"
+  },
+  "author": "Francis Tyrone Pimenta",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "4.5.1",
+    "fs": "0.0.1-security"
+  }
+}
